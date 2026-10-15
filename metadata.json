@@ -1,0 +1,6 @@
+{
+  "name": "yt-dlp GUI",
+  "description": "A lightweight, intuitive GUI frontend for yt-dlp to download media with single-click quality, format, and destination folder presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
